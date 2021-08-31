@@ -1,7 +1,7 @@
 # 🐾 Adote um Pet
 
 <img src=".\img\Screenshot-Adote-um-Pet.png">
-<a href="https://esthermarie.github.io/Adote-um-pet/">Link do projeto</a>
+<!-- <a href="https://esthermarie.github.io/Adote-um-pet/">Link do projeto</a> -->
 
 <hr>
 
@@ -16,3 +16,7 @@ Ainda há a possibilidade de adicionar mais páginas/itens ao projeto.
 -  Entender como funciona o Bootstrap
 -  Praticar conceitos básicos de posicionamento, responsividade e colunas do Bootstrap
 -  Experimentar o uso de cards com imagens e textos
+
+## Página Completa
+
+<img src=".\img\Screenshot-PáginaCompleta-Adote-um-Pet.png">

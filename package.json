@@ -1,0 +1,19 @@
+{
+  "name": "adote-um-pet",
+  "version": "1.0.0",
+  "description": "Projeto feito para praticar conceitos de Bootstrap",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "bootstrap",
+    "bootstrap-v5"
+  ],
+  "author": "Esther Marie",
+  "license": "ISC",
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.15.4",
+    "bootstrap": "^5.1.0"
+  }
+}

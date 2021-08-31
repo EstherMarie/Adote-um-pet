@@ -1,7 +1,7 @@
 # 🐾 Adote um Pet
 
 <img src=".\img\Screenshot-Adote-um-Pet.png">
-<!-- <a href="https://esthermarie.github.io/Adote-um-pet/">Link do projeto</a> -->
+<a href="https://esthermarie.github.io/Adote-um-pet/">Link do projeto</a>
 
 <hr>
 
